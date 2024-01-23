@@ -1,4 +1,6 @@
-# html_to_pdf
+# [Deprecated]html_to_pdf
+
+# It has been transferred here. https://github.com/penkzhou/plugin_html_to_pdf
 
 [![pub package](https://img.shields.io/pub/v/html_to_pdf.svg)](https://pub.dartlang.org/packages/html_to_pdf)
 
